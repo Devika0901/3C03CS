@@ -19,8 +19,9 @@ height:10px;
 #menu{
 text-align:right;
 margin-top:20px;
-background-color:red;
+bg-color:red;
 padding:10px;
+Font-weighr:bolder;
 }
 #himalaya{
 height:300px;
