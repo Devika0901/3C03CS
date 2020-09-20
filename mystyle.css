@@ -20,9 +20,14 @@ height:10px;
 text-align:right;
 margin-top:20px;
 background-color:chocolate;
+font-weight:bolder;
 }
 
 #himalaya{
 height:400px;
 width:100%;
+}
+
+#state{
+background-color: blue;
 }
