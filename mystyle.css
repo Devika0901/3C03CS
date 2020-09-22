@@ -18,16 +18,25 @@ height:10px;
 
 #menu{
 text-align:right;
-margin-top:20px;
+margin-top:30px;
 background-color:chocolate;
+padding:10px;
 font-weight:bolder;
+color:white;
 }
 
 #himalaya{
-height:400px;
+height:300px;
 width:100%;
 }
 
-#state{
+#para{
 background-color: blue;
+width:60%;
+color:white;
+}
+
+#para1{
+
+width:40%;
 }
