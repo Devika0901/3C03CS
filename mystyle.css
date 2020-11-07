@@ -1,5 +1,6 @@
 body{
 width:60%;
+background-color:#cce6ff;
 margin:auto;
 }
 
@@ -30,11 +31,7 @@ height:300px;
 width:100%;
 }
 
-#para{
-width:60%;
+p{
+font-family:monospace;
 }
 
-#para1{
-
-width:40%;
-}
