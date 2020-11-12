@@ -1,5 +1,5 @@
 body{
-width:90%;
+width:100%;
 background-color:#cce6ff;
 margin:auto;
 }
@@ -22,7 +22,7 @@ text-align:right;
 margin-top:30px;
 background-color:chocolate;
 padding:10px;
-font-weight:bolder;
+font-weight:bold;
 color:white;
 }
 
